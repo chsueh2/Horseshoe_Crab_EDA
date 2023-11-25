@@ -21,7 +21,7 @@ R packages used:
 
 ## Project Report
 
-[Project report](https://rpubs.com/clh2021/1119541) ([Github Markdown](./Horseshoe_Crab_EDA.md)) ([R Markdown](./Horseshoe_Crab_EDA.html))
+[Project report](https://rpubs.com/clh2021/1119541) ([Github Markdown](./Horseshoe_Crab_EDA.md)) ([R Markdown](./Horseshoe_Crab_EDA.Rmd))
 
 Chien-Lan Hsueh (chienlan.hsueh at gmail.com)
 
