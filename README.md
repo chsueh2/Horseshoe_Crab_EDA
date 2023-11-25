@@ -38,8 +38,8 @@ In this project, we perform exploratory data analysis (EDA) to identify general 
 - Box plots
 - Correlation and Scatter plot
 
-![](./image1.png)
-![](./image2.png)
-![](./image3.png)
-![](./image4.png)
-![](./image5.png)
+![](./images/image1.png)
+![](./images/image2.png)
+![](./images/image3.png)
+![](./images/image4.png)
+![](./images/image5.png)
