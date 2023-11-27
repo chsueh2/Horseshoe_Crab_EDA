@@ -39,7 +39,11 @@ In this project, we perform exploratory data analysis (EDA) to identify general 
 - Correlation and Scatter plot
 
 ![](./images/image1.png)
+
 ![](./images/image2.png)
+
 ![](./images/image3.png)
+
 ![](./images/image4.png)
+
 ![](./images/image5.png)
